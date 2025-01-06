@@ -3,7 +3,9 @@
 
 
 https://learn.codesignal.com/course/247/unit/1/practice/4
-Given a string input_string, return a new string in which all occurrences of character c1 in the original string replaced by c2. You cannot use any built-in string methods or functions in Python, such as replace().
+Given a string input_string, return a new string in which all occurrences of character c1 
+in the original string replaced by c2. You cannot use any built-in string methods or functions in Python, 
+such as replace().
 
 Here's an example:
 
