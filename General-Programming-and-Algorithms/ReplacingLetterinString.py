@@ -28,5 +28,4 @@ def replace_character(input_string, c1, c2):
 
 print(replace_character("hello, world", "o", "a"))
 
-print(solution("abc123XYz!"))
 
