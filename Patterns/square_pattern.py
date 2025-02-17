@@ -22,3 +22,7 @@ main()
 #     console.log()
 
 # }
+
+
+#for outer loop its all about how many colums 
+#for inner loops count the coulmns and somehow connect it to the rows

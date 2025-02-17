@@ -38,11 +38,25 @@ def triangle3(n):
             print(i, end="")
         print()
 
+#reverse_triangle
+# *****
+# ****
+# ***
+# **
+# *
+
+def reverse_triangle(n):
+    for i in range(n,0,-1):
+        for j in range(i): #Inner loop prints 
+            print('*', end="")
+        print()
+
 def main():
     n=int(input("Enter the number of lines :"))
     triangle1(n)
     triangle2(n)
     triangle3(n)
+    reverse_triangle(n)
 
 main()
 
